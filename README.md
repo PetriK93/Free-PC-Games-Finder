@@ -48,15 +48,17 @@ The app's interface is built with CustomTkinter GUI, complete with a CTkTextbox 
 
 ## 💻 How to use the app
 
-Choose a folder containing files you want to organize.
+Decide if you want to use either:
 
-The app will scan and categorize files by type.
+A) Genre 
 
-Subfolders are automatically created for each file type.
+B) Year
 
-Files are moved into their corresponding folders.
+C) Both
 
-Switch between dark and light mode — your choice is saved for next time! 🎉
+For filtering your desired games neatly into a list at the bottom section of the application.
+Once you've set your parameters for filtering and clicked the button, you will see a list of
+the games you've filtered in this format: {Index}. {Game name} - {Year of release}.
 
 ---
 
