@@ -1,6 +1,6 @@
 # Free PC Games Finder
 
-![Preview](https://github.com/user-attachments/assets/3f9dfbd9-6208-4f8b-8bff-9cbd3aea5e94)
+![Preview](https://github.com/user-attachments/assets/1634976b-1bb3-4025-a9de-2506bb64a856)
 
 ## 📖 Introduction
 

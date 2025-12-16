@@ -144,7 +144,8 @@ search_year_input = ctk.CTkEntry(
     font=("Arial", 20),
     width=250,
     height=50,
-    placeholder_text="Type a year..."
+    placeholder_text="Type a year...",
+    justify="center"
 )
 
 search_year_button = ctk.CTkButton(
